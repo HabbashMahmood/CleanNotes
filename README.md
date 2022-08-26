@@ -9,15 +9,15 @@
 
 Light Theme
 
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Spash%20Screen.png?raw=true)
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Landing%20Screen%20Filled.png?raw=true)
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Update%20Note%20Screen.png?raw=true)
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Spash%20Screen.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Landing%20Screen%20Filled.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Update%20Note%20Screen.png?raw=true)</kbd>
 
 Dark Theme
 
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Spash%20Screen.png?raw=true)
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Landing%20Screen%20Filled.png?raw=true)
-![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Update%20Note%20Screen.png?raw=true)
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Spash%20Screen.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Landing%20Screen%20Filled.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Update%20Note%20Screen.png?raw=true)</kbd>
 
 ## Built With
 
