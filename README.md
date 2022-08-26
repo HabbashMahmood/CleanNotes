@@ -1,7 +1,24 @@
 
+![Logo](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/app_icon.png?raw=true)
+
 # Clean Notes
 
 'Clean Notes' is a simple note-taking 📝 android application built to describe the use of Jetpack Compose with Clean Architecture Design pattern in Android development. Made with love ❤️ by HabbashMahmood
+
+## Screenshots
+
+Light Theme
+
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Spash%20Screen.png?raw=true)
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Landing%20Screen%20Filled.png?raw=true)
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Update%20Note%20Screen.png?raw=true)
+
+Dark Theme
+
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Spash%20Screen.png?raw=true)
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Landing%20Screen%20Filled.png?raw=true)
+![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Update%20Note%20Screen.png?raw=true)
+
 ## Built With
 
 'Clean Notes' is written in with Clean Architecture Design pattern.
