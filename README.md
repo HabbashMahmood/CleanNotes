@@ -5,21 +5,24 @@
 
 'Clean Notes' is a simple note-taking 📝 android application built to describe the use of Jetpack Compose with Clean Architecture Design pattern in Android development. Made with love ❤️ by HabbashMahmood
 
-## Screenshots
+# Screenshots
 
-Light Theme
+## Light Theme
 
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Spash%20Screen.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Landing%20Screen.png?raw=true)</kbd>
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Landing%20Screen%20Filled.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/New%20Note%20Screen.png?raw=true)</kbd>
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Light%20Mode/Update%20Note%20Screen.png?raw=true)</kbd>
 
-Dark Theme
-
+## Dark Theme
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Spash%20Screen.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Landing%20Screen.png?raw=true)</kbd>
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Landing%20Screen%20Filled.png?raw=true)</kbd>
+<kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/New%20Note%20Screen.png?raw=true)</kbd>
 <kbd>![App Screenshot](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/Dark%20Mode/Update%20Note%20Screen.png?raw=true)</kbd>
 
-## Built With
+# Built With
 
 'Clean Notes' is written in with Clean Architecture Design pattern.
 
@@ -37,12 +40,9 @@ Some other technologies used in this project:
   - [Jetpack Navigation](https://developer.android.com/guide/navigation) - Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
-
-## Package Structure
+# Package Structure
 
 ```
-## Clean Architecture
-
 com.habbashmahmood.clean_note_app/  # Main Package
 
 ├───core
@@ -78,7 +78,7 @@ com.habbashmahmood.clean_note_app/  # Main Package
 
 ![Clean Architecture Flow Diagram](https://github.com/HabbashMahmood/CleanNotes/blob/master/screenshots/clean%20architecture%20flow%20diagram.png?raw=true)
 
-## Features
+# Features
 
 - Light/dark mode toggle
 - Fullscreen mode
@@ -88,7 +88,8 @@ com.habbashmahmood.clean_note_app/  # Main Package
 - Filter notes on basis of Title, Date and Color
 - Order notes by Ascending and Decending Order
 - Simple minimilistic design
-## Future Roadmap
+
+# Future Roadmap
 
 - Auto save
 - Pin notes to always keep them at the top
@@ -99,18 +100,18 @@ com.habbashmahmood.clean_note_app/  # Main Package
 - Add clickable links to notes with support for phone numbers, email addresses and web urls
 - Search notes
 - Settings screen
-## Contact
+
+# Contact
 Have an project? DM us at 👇
 
 Drop a mail to:- ch.habbash@gmail.com
 
-
-## Feedback
+# Feedback
 
 If you have any feedback, please reach out to us at ch.habbash@gmail.com
 
 
-## License
+# License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 
