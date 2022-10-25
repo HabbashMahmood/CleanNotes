@@ -34,7 +34,7 @@ fun SplashScreen(navController: NavController) {
                     OvershootInterpolator(4f).getInterpolation(it)
                 })
         )
-        delay(10000L)
+        delay(1000L)
         navController.navigate(Screen.NotesScreen.route) {
             popUpTo(Screen.SplashScreen.route) {
                 inclusive = true
